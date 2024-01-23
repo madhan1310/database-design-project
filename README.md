@@ -16,7 +16,7 @@ The primary goal of this project was to create an optimized database schema for 
 - Identification of 7 key entities.
 - Definition of attributes, relationships, primary keys, foreign keys, and other constraints in the ERD.
 - Translation of the ERD model into a relational schema.
-- Normalization of the schema to 3NF.
+- Normalization of the schema to BCNF.
 - Sample queries to test the schema.
 - Sample data import and validation checks.
 
@@ -29,9 +29,18 @@ The ERD provides a visual representation of the database schema, highlighting th
 The project report delves into the following aspects:
 
 - Translation of the ERD model into a relational schema.
-- Steps for normalizing the schema to 3NF.
+- Steps for normalizing the schema to bcNF.
 - Sample queries for testing the schema.
 - Sample data import procedures and validation checks.
+  
+- - **Statistical Analysis:**
+  - Calculated mean and standard deviation for numeric columns.
+
+- **Join Queries:**
+  - Demonstrated functionality through join queries:
+    1. Region and transaction tables are joined to find region-wise total sales.
+    2. Product, category, and transaction tables are joined to find category-wise total profit.
+    3. Customer and transaction tables are joined to find the name of the customer with the highest sales.
 
 ## Usage
 
@@ -43,6 +52,4 @@ The project report delves into the following aspects:
 
 This project demonstrates the process of designing and implementing an optimized database schema for a supermarket sales system. Feel free to explore the ERD and project report for a deeper understanding of the schema and its functionalities.
 
-## License
 
-This project is open-source and available under the [MIT License](LICENSE).
