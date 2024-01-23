@@ -1,6 +1,6 @@
 # Database Design Project
 This repository contains the entity relationship diagram and project report for my database design project.
-Contents:
+# Contents:
  ERD.mwb - MySQL Workbench file containing the Entity Relationship Diagram
 ProjectReport.pdf - Report detailing the database design and implementation
 Overview
