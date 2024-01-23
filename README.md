@@ -33,7 +33,7 @@ The project report delves into the following aspects:
 - Sample queries for testing the schema.
 - Sample data import procedures and validation checks.
   
-- - **Statistical Analysis:**
+- **Statistical Analysis:**
   - Calculated mean and standard deviation for numeric columns.
 
 - **Join Queries:**
