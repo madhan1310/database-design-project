@@ -1,24 +1,48 @@
-# Database Design Project
-This repository contains the entity relationship diagram and project report for my database design project.
-## Contents:
- ERD.mwb - MySQL Workbench file containing the Entity Relationship Diagram
-ProjectReport.pdf - Report detailing the database design and implementation
-Overview
-The goal of this project was to design and implement a normalized database schema for a supermarket sales system.
+# Supermarket Sales System Database Design Project
 
-The ERD provides a visualization of the database schema including:
+## Overview
 
-7 key entities identified
-Attributes, relationships defined
-Primary keys, foreign keys, and other constraints
-The project report covers:
+Welcome to the Supermarket Sales System Database Design Project repository. This project focuses on designing and implementing a normalized database schema for a supermarket sales system. The contents include the Entity Relationship Diagram (ERD) in MySQL Workbench format and a detailed project report.
 
-Translating the ERD model into a relational schema
-Steps for normalizing the schema to 3NF
-Sample queries to test the schema
-Sample data import and validation checks
-Overall, this project demonstrates the process of designing an optimized database schema and testing it with sample data.
+## Contents
 
-Usage
-The ERD can be viewed using MySQL Workbench or any ERD visualization software
-The report provides additional details on the implementation and testing process
+- **ERD.mwb**: MySQL Workbench file containing the Entity Relationship Diagram.
+- **ProjectReport.pdf**: Report detailing the database design and implementation.
+
+## Project Goals
+
+The primary goal of this project was to create an optimized database schema for a supermarket sales system. The key components include:
+
+- Identification of 7 key entities.
+- Definition of attributes, relationships, primary keys, foreign keys, and other constraints in the ERD.
+- Translation of the ERD model into a relational schema.
+- Normalization of the schema to 3NF.
+- Sample queries to test the schema.
+- Sample data import and validation checks.
+
+## ERD Overview
+
+The ERD provides a visual representation of the database schema, highlighting the relationships and constraints among the identified entities.
+
+## Project Report Highlights
+
+The project report delves into the following aspects:
+
+- Translation of the ERD model into a relational schema.
+- Steps for normalizing the schema to 3NF.
+- Sample queries for testing the schema.
+- Sample data import procedures and validation checks.
+
+## Usage
+
+- **Viewing ERD**: The ERD can be opened and viewed using MySQL Workbench or any ERD visualization software.
+
+- **Project Report**: For detailed insights into the design and implementation process, refer to the Project Report (ProjectReport.pdf).
+
+## Conclusion
+
+This project demonstrates the process of designing and implementing an optimized database schema for a supermarket sales system. Feel free to explore the ERD and project report for a deeper understanding of the schema and its functionalities.
+
+## License
+
+This project is open-source and available under the [MIT License](LICENSE).
