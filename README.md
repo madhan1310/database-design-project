@@ -1,4 +1,4 @@
-# Supermarket Sales System Database Design Project
+# Superstore Sales System Database Design Project
 
 ## Overview
 
